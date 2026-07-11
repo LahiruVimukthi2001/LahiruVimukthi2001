@@ -1,40 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# 💫 About Me:
+# Hi there, I'm [Your Name] 👋<br><br>## About Me<br><br>I am an Information Technology professional specializing in **System Administration and IT Infrastructure Management**. I focus on building stable, scalable environments and keeping systems running smoothly. Beyond corporate infrastructure, I also enjoy working on community-driven tech and sports organization projects.<br><br><details open><br><summary><b>System Admin & Infrastructure Checklist</b></summary><br><br><br><br>- 🔭 **I’m currently working on:** Optimizing network infrastructure, cloud deployments, and automating server configurations.<br>- 👯 **I’m looking to collaborate on:** Open-source DevOps tools, system automation scripts (Bash/Python/Ansible), or community IT projects.<br>- 🤝 **I’m looking for help with:** Mastering advanced Kubernetes orchestration and enterprise-level CI/CD pipelines.<br>- 🌱 **I’m currently learning:** Advanced cloud security frameworks and infrastructure as code (IaC) with Terraform.<br>- 💬 **Ask me about:** Linux server administration, network management, backup strategies, and IT troubleshooting.<br>- ⚡ **Fun fact:** When I'm not configuring servers, I love watching or helping organize local cricket tournaments! 🏏<br></details><br><br>---<br><br>## 🛠️ Tech Stack & Tools<br><br>- **OS / Infrastructure:** Linux (Ubuntu/CentOS), Windows Server, Docker<br>- **Networking & Security:** Firewalls, VPNs, DNS, Active Directory<br>- **Scripting & Automation:** Bash, Python<br>- **Cloud Platforms:** AWS / Azure (Modify as applicable)<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)<br><br>---<br><br>## 📫 Connect with Me<br><br>- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)<br>- 📧 **Email:** your.email@example.com
 
-## About Me
 
-I am an Information Technology professional specializing in **System Administration and IT Infrastructure Management**. I focus on building stable, scalable environments and keeping systems running smoothly. Beyond corporate infrastructure, I also enjoy working on community-driven tech and sports organization projects.
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/lahiruvimukthi2001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lahiruvimukthi82@gmail.com) 
 
-<details open>
-<summary><b>System Admin & Infrastructure Checklist</b></summary>
-<br>
-
-- 🔭 **I’m currently working on:** Optimizing network infrastructure, cloud deployments, and automating server configurations.
-- 👯 **I’m looking to collaborate on:** Open-source DevOps tools, system automation scripts (Bash/Python/Ansible), or community IT projects.
-- 🤝 **I’m looking for help with:** Mastering advanced Kubernetes orchestration and enterprise-level CI/CD pipelines.
-- 🌱 **I’m currently learning:** Advanced cloud security frameworks and infrastructure as code (IaC) with Terraform.
-- 💬 **Ask me about:** Linux server administration, network management, backup strategies, and IT troubleshooting.
-- ⚡ **Fun fact:** When I'm not configuring servers, I love watching or helping organize local cricket tournaments! 🏏
-</details>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=LahiruVimukthi2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=LahiruVimukthi2001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=LahiruVimukthi2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=LahiruVimukthi2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack & Tools
-
-- **OS / Infrastructure:** Linux (Ubuntu/CentOS), Windows Server, Docker
-- **Networking & Security:** Firewalls, VPNs, DNS, Active Directory
-- **Scripting & Automation:** Bash, Python
-- **Cloud Platforms:** AWS / Azure (Modify as applicable)
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 📧 **Email:** your.email@example.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
