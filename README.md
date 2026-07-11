@@ -1,10 +1,40 @@
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# Hi there, I'm [Your Name] 👋
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LahiruVimukthi2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LahiruVimukthi2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruVimukthi2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me
+
+I am an Information Technology professional specializing in **System Administration and IT Infrastructure Management**. I focus on building stable, scalable environments and keeping systems running smoothly. Beyond corporate infrastructure, I also enjoy working on community-driven tech and sports organization projects.
+
+<details open>
+<summary><b>System Admin & Infrastructure Checklist</b></summary>
+<br>
+
+- 🔭 **I’m currently working on:** Optimizing network infrastructure, cloud deployments, and automating server configurations.
+- 👯 **I’m looking to collaborate on:** Open-source DevOps tools, system automation scripts (Bash/Python/Ansible), or community IT projects.
+- 🤝 **I’m looking for help with:** Mastering advanced Kubernetes orchestration and enterprise-level CI/CD pipelines.
+- 🌱 **I’m currently learning:** Advanced cloud security frameworks and infrastructure as code (IaC) with Terraform.
+- 💬 **Ask me about:** Linux server administration, network management, backup strategies, and IT troubleshooting.
+- ⚡ **Fun fact:** When I'm not configuring servers, I love watching or helping organize local cricket tournaments! 🏏
+</details>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LahiruVimukthi2001&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛠️ Tech Stack & Tools
+
+- **OS / Infrastructure:** Linux (Ubuntu/CentOS), Windows Server, Docker
+- **Networking & Security:** Firewalls, VPNs, DNS, Active Directory
+- **Scripting & Automation:** Bash, Python
+- **Cloud Platforms:** AWS / Azure (Modify as applicable)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** your.email@example.com
