@@ -1,5 +1,4 @@
-💫 About Me:
-Hi there, I'm Lahiru Vimukthi 👋<br><br>About Me :<br><br>I am an Information Technology professional specializing in System Administration and IT Infrastructure Management. I focus on building stable, scalable environments and keeping systems running smoothly. Beyond corporate infrastructure, I also enjoy working on community-driven tech and sports organization projects.<br><br>📫 Connect with Me<br><br>- 💼 LinkedIn: www.linkedin.com/in/lahiruvimukthi<br>- 📧 Email: lahiruvimukthi82@gmail.com
+Hi there, I'm Lahiru Vimukthi 👋<br><br>About Me:<br><br>I am an Information Technology professional specializing in System Administration and IT Infrastructure Management. I focus on building stable, scalable environments and keeping systems running smoothly. Beyond corporate infrastructure, I also enjoy working on community-driven tech and sports organization projects.<br><br>📫 Connect with Me<br><br>- 💼 LinkedIn: www.linkedin.com/in/lahiruvimukthi<br>- 📧 Email: lahiruvimukthi82@gmail.com
 
 
 ## 🌐 Socials:
